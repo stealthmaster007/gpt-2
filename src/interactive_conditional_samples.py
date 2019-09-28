@@ -11,7 +11,7 @@ import model, sample, encoder
 def interact_model(
     model_name='355M',
     seed=None,
-    nsamples=1,
+    nsamples=2,
     batch_size=1,
     length=None,
     temperature=1,

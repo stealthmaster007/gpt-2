@@ -9,7 +9,7 @@ import tensorflow as tf
 import model, sample, encoder
 
 def interact_model(
-    model_name='124M',
+    model_name='355M',
     seed=None,
     nsamples=1,
     batch_size=1,
@@ -17,7 +17,7 @@ def interact_model(
     temperature=1,
     top_k=0,
     top_p=1,
-    models_dir='models',
+    models_dir='E:\Andriod sree\Thonny\open_ai_gpt_2\models',
 ):
     """
     Interactively run the model

@@ -5,5 +5,4 @@
 
 
 1. Run generate_unconditional_samples
-2. Edit the code at '<|endoftext|>' with 'Give the text input to the model'
-3. Profit
+2. Profit
